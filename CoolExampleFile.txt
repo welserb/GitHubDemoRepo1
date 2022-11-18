@@ -1,2 +1,4 @@
 This is the first line I typed in the file.
 Here is yet another line. But this isn't tracked or added by default.
+
+Now what?
